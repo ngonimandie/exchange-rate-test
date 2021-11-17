@@ -41,6 +41,10 @@ build/Release
 node_modules/
 jspm_packages/
 
+api/node_modules/
+api/jspm_packages/
+api/.env
+
 # TypeScript v1 declaration files
 typings/
 
